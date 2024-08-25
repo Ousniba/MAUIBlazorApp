@@ -1,0 +1,41 @@
+﻿@using BootstrapBlazor.Components
+
+@* <GroupBox Title="功能体验区">
+    <div class="row g-3 form-inline text-end">
+        <div class="col-12 col-sm-3">
+            <Switch DisplayText="显示农历" ShowLabel="true" @bind-Value="_showLunar" />
+        </div>
+        <div class="col-12 col-sm-3">
+            <Switch DisplayText="24 节气" ShowLabel="true" @bind-Value="_showSolarTerm" />
+        </div>
+        <div class="col-12 col-sm-3">
+            <Switch DisplayText="节日" ShowLabel="true" @bind-Value="_showFestivals" />
+        </div>
+        <div class="col-12 col-sm-3">
+            <Switch DisplayText="法定假日" ShowLabel="true" @bind-Value="_showHolidays" />
+        </div>
+    </div>
+</GroupBox> *@
+
+<DatePickerBody 
+    @bind-Value="Value" 
+    OnConfirm="@NormalOnConfirm" 
+    ShowFooter="false" 
+    ShowLunar="_showLunar" 
+    ShowSolarTerm="_showSolarTerm" 
+    ShowFestivals="_showFestivals" 
+    ShowHolidays="_showHolidays" />
+
+@code {
+    private DateTime Value { get; set; } = DateTime.Today;
+
+    private Task NormalOnConfirm()
+    {
+        return Task.CompletedTask;
+    }
+
+    private bool _showLunar = true;
+    private bool _showSolarTerm = true;
+    private bool _showFestivals = true;
+    private bool _showHolidays = true;
+}
