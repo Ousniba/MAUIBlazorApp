@@ -216,3 +216,4 @@ D:\Documents\Projects\MauiBlazorApp\MauiBlazorApp\obj\Debug\net8.0-windows10.0.1
 D:\Documents\Projects\MauiBlazorApp\MauiBlazorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 D:\Documents\Projects\MauiBlazorApp\MauiBlazorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
 D:\Documents\Projects\MauiBlazorApp\MauiBlazorApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\BootstrapBlazor.FontAwesome.dll
+D:\Documents\Projects\MauiBlazorApp\MauiBlazorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiBlazorApp.sourcelink.json

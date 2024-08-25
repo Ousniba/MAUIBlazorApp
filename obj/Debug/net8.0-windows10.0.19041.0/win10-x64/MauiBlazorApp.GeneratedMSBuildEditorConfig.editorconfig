@@ -81,6 +81,13 @@ build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENhbGVuZGFyQ29tcG9uZW50LnJh
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Documents/Projects/MauiBlazorApp/MauiBlazorApp/Shared/NASBrowserComponent.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5BU0Jyb3dzZXJDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Documents/Projects/MauiBlazorApp/MauiBlazorApp/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 

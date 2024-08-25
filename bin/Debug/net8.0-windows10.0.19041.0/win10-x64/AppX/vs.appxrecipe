@@ -30,25 +30,25 @@
     <AppXManifest Include="D:\Documents\Projects\MauiBlazorApp\MauiBlazorApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-08-25T07:09:31.520</Modified>
+      <Modified>2024-08-25T12:01:38.617</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Documents\Projects\MauiBlazorApp\MauiBlazorApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-08-25T06:43:29.727</Modified>
+      <Modified>2024-08-25T10:33:03.987</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Documents\Projects\MauiBlazorApp\MauiBlazorApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiBlazorApp.runtimeconfig.json">
       <PackagePath>MauiBlazorApp.runtimeconfig.json</PackagePath>
-      <Modified>2024-08-25T07:09:31.303</Modified>
+      <Modified>2024-08-25T12:01:38.407</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Documents\Projects\MauiBlazorApp\MauiBlazorApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiBlazorApp.dll">
       <PackagePath>MauiBlazorApp.dll</PackagePath>
-      <Modified>2024-08-25T07:09:30.945</Modified>
+      <Modified>2024-08-25T12:01:37.959</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Documents\Projects\MauiBlazorApp\MauiBlazorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MauiBlazorApp.exe</PackagePath>
-      <Modified>2024-08-25T07:09:30.955</Modified>
+      <Modified>2024-08-25T12:01:37.963</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Documents\Projects\MauiBlazorApp\MauiBlazorApp\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -304,7 +304,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Documents\Projects\MauiBlazorApp\MauiBlazorApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiBlazorApp.deps.json">
       <PackagePath>MauiBlazorApp.deps.json</PackagePath>
-      <Modified>2024-08-25T07:09:31.300</Modified>
+      <Modified>2024-08-25T12:01:38.405</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\82081\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
@@ -1152,15 +1152,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Documents\Projects\MauiBlazorApp\MauiBlazorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\MauiBlazorApp.styles.css">
       <PackagePath>wwwroot\MauiBlazorApp.styles.css</PackagePath>
-      <Modified>2024-08-25T07:04:52.847</Modified>
+      <Modified>2024-08-25T11:54:04.706</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Documents\Projects\MauiBlazorApp\MauiBlazorApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\MauiBlazorApp.bundle.scp.css">
       <PackagePath>wwwroot\MauiBlazorApp.bundle.scp.css</PackagePath>
-      <Modified>2024-08-25T07:04:52.848</Modified>
+      <Modified>2024-08-25T11:54:04.708</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Documents\Projects\MauiBlazorApp\MauiBlazorApp\Components\Layout\MainLayout.razor.css">
       <PackagePath>Components\Layout\MainLayout.razor.css</PackagePath>
-      <Modified>2024-08-25T07:04:52.144</Modified>
+      <Modified>2024-08-25T11:54:04.132</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Documents\Projects\MauiBlazorApp\MauiBlazorApp\Components\Layout\NavMenu.razor.css">
       <PackagePath>Components\Layout\NavMenu.razor.css</PackagePath>

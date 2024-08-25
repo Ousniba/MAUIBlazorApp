@@ -80,7 +80,6 @@ main[b-4047anh86h] {
 .header[b-4047anh86h] {
     width: 100%;
     height: 50px;
-    box-shadow: 0 2px 12px 0 rgba(0, 0, 0, .1);
 }
 .fixed-header[b-4047anh86h] {
     position: fixed;
@@ -89,6 +88,7 @@ main[b-4047anh86h] {
     height: 50px;
     z-index: 1000;
     background-color: white;
+    box-shadow: 0 2px 12px 0 rgba(0, 0, 0, .1);
 }
 .fixed-footer[b-4047anh86h] {
     position: fixed;
@@ -100,6 +100,6 @@ main[b-4047anh86h] {
     box-shadow: 2px 0 12px 0 rgba(0, 0, 0, .1);
 }
 
-.main-title[b-4047anh86h]{
-    
+.main-content[b-4047anh86h] {
+    margin-bottom: 60px;
 }

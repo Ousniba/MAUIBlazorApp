@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MauiBlazorApp</name>
+    </assembly>
+    <members>
+        <member name="M:MauiBlazorApp.Services.ICalendarHolidays.IsHoliday(System.DateTime)">
+            <Summary>
+            获得 假日键值
+            </Summary>
+        </member>
+    </members>
+</doc>

@@ -77,13 +77,17 @@ main {
 }
 
 /*×Ô¶¨Òå*/
+.header {
+    width: 100%;
+    height: 50px;
+}
 .fixed-header {
     position: fixed;
     top: 0;
     width: 100%;
+    height: 50px;
     z-index: 1000;
     background-color: white;
-    height: 50px;
     box-shadow: 0 2px 12px 0 rgba(0, 0, 0, .1);
 }
 .fixed-footer {
@@ -96,6 +100,6 @@ main {
     box-shadow: 2px 0 12px 0 rgba(0, 0, 0, .1);
 }
 
-.main-title{
-    
+.main-content {
+    margin-bottom: 60px;
 }
